@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-labelledby="title desc">
+  <title id="title">Placeholder portrait for Alex Doe</title>
+  <desc id="desc">Abstract illustrated profile card with the initials AD.</desc>
+  <defs>
+    <linearGradient id="bg-alex" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#b8e1a9" />
+      <stop offset="100%" stop-color="#4d8b31" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="800" fill="url(#bg-alex)" />
+  <circle cx="400" cy="295" r="150" fill="#f7f7ef" opacity="0.94" />
+  <path d="M205 700c36-146 120-225 195-225s159 79 195 225" fill="#274c3b" opacity="0.94" />
+  <path d="M300 235c38-55 162-55 200 0" fill="none" stroke="#274c3b" stroke-linecap="round" stroke-width="24" />
+  <circle cx="346" cy="288" r="14" fill="#274c3b" />
+  <circle cx="454" cy="288" r="14" fill="#274c3b" />
+  <path d="M344 360c34 26 78 26 112 0" fill="none" stroke="#274c3b" stroke-linecap="round" stroke-width="12" />
+  <text x="400" y="735" text-anchor="middle" font-family="Arial, sans-serif" font-size="92" font-weight="700" fill="#f7f7ef">AD</text>
+</svg>

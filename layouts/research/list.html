@@ -1,0 +1,16 @@
+{{ define "main" }}
+<main class="page-main pa4" role="main">
+  <section class="blog-intro mw8 center tc mb5">
+    <h2 class="f2 f1-ns lh-solid center fw4">{{ .Title | markdownify }}</h2>
+    {{ with .Description }}<p class="f4 mt4 lh-copy measure center">{{ . | markdownify }}</p>{{ end }}
+    {{ if .Params.show_author_byline }}<p class="f7 measure lh-copy tc center i">{{ if .Params.author }}Written by {{ .Params.author }}{{ end }}</p>{{ end }}
+  </section>
+  <section class="blog-content mw8 center">
+    {{ $caller := . }}
+    {{ $pages := .RegularPages.ByWeight }}
+      {{ range $pages }}
+        {{ partial "research/summary" (dict "page" . "root" $caller) }}
+      {{ end }}
+  </section>
+</main>
+{{ end }}

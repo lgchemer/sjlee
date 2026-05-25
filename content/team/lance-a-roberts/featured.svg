@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-labelledby="title desc">
+  <title id="title">Placeholder portrait for Taylor Doe</title>
+  <desc id="desc">Abstract illustrated profile card with the initials TD.</desc>
+  <defs>
+    <linearGradient id="bg-taylor" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#cdb4db" />
+      <stop offset="100%" stop-color="#6d597a" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="800" fill="url(#bg-taylor)" />
+  <circle cx="400" cy="300" r="150" fill="#faf4fc" opacity="0.94" />
+  <path d="M202 700c38-145 122-225 198-225s160 80 198 225" fill="#35243f" opacity="0.94" />
+  <path d="M296 235c40-48 168-48 208 0" fill="none" stroke="#35243f" stroke-linecap="round" stroke-width="24" />
+  <circle cx="346" cy="288" r="14" fill="#35243f" />
+  <circle cx="454" cy="288" r="14" fill="#35243f" />
+  <path d="M344 360c34 26 78 26 112 0" fill="none" stroke="#35243f" stroke-linecap="round" stroke-width="12" />
+  <text x="400" y="735" text-anchor="middle" font-family="Arial, sans-serif" font-size="92" font-weight="700" fill="#faf4fc">TD</text>
+</svg>

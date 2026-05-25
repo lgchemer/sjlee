@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-labelledby="title desc">
+  <title id="title">Placeholder portrait for Jordan Doe</title>
+  <desc id="desc">Abstract illustrated profile card with the initials JD.</desc>
+  <defs>
+    <linearGradient id="bg-jordan" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#a8dadc" />
+      <stop offset="100%" stop-color="#1d3557" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="800" fill="url(#bg-jordan)" />
+  <circle cx="400" cy="300" r="150" fill="#f0fbfb" opacity="0.94" />
+  <path d="M202 700c38-145 122-225 198-225s160 80 198 225" fill="#19324c" opacity="0.94" />
+  <path d="M294 242c42-44 170-44 212 0" fill="none" stroke="#19324c" stroke-linecap="round" stroke-width="26" />
+  <circle cx="346" cy="290" r="14" fill="#19324c" />
+  <circle cx="454" cy="290" r="14" fill="#19324c" />
+  <path d="M344 362c34 26 78 26 112 0" fill="none" stroke="#19324c" stroke-linecap="round" stroke-width="12" />
+  <text x="400" y="735" text-anchor="middle" font-family="Arial, sans-serif" font-size="92" font-weight="700" fill="#f0fbfb">JD</text>
+</svg>

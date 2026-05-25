@@ -1,3 +1,14 @@
 body {
   font-size: 1.2rem;
 }
+
+@media screen and (min-width: 60em) {
+  .home-title {
+    font-size: 4.5rem;
+  }
+}
+
+.home-role {
+  @extend .#{$headingColor};
+  font-family: "Alegreya Sans", sans-serif;
+}

@@ -1,5 +1,5 @@
 ---
-title: "Granular Micromechanics Research Laboratory"
+title: "Seung Jae Lee, Ph.D."
 department: "Dept. of Civil and Environmental Engineering"
 college: "College of Engineering and Computing"
 subtitle: "Florida International University, Miami, FL"

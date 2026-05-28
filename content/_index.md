@@ -7,12 +7,7 @@ subtitle: "Florida International University, Miami, FL"
 description: "Advancing research at the intersection of micromechanics and granular materials. Explore our innovative projects, meet our dedicated team, and discover how we are shaping the future of granular materials research at FIU."
 date: 2026-04-23T12:27:33-06:00
 images:
-  - img/GRAMMR_Logo1.png
-  - img/FIU_GRANULAR_PARTICLE_LOGO.gif
-  - img/G_Logo.png
-  - img/meta-mat-1.png
   - img/column-collapse.png
-  - img/biaxial.png  
 image_left: true
 text_align_left: true
 show_social_links: true # specify social accounts in site config

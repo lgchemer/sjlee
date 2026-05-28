@@ -28,8 +28,8 @@ enableEmoji = true
     style = "github"
     
 [params]
-  orgName = "Savoir"
-  orgLocal = "Paris"
+  orgName = "Seung Jae Lee"
+  orgLocal = ""
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
   favicon = "/img/favicon.ico"
   logo = "/img/blogophonic-mark-dark.png"
@@ -140,12 +140,6 @@ enableEmoji = true
     title = "License"
     url = "/license/"
     weight = 1
-  [[menu.footer]]
-    name = "Contact"
-    title = "Contact form"
-    url = "/contact/"
-    weight = 2
-
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]
   [privacy.disqus]

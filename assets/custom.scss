@@ -12,3 +12,8 @@ body {
   @extend .#{$headingColor};
   font-family: "Alegreya Sans", sans-serif;
 }
+
+.about-profile-image {
+  max-width: 16rem;
+  width: 100%;
+}

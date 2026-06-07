@@ -1,7 +1,7 @@
 ---
 title: "Numerical Methods and Advanced Computing"
 excerpt: "Numerical Methods and Advanced Computing integrates computational mechanics, particle-scale modeling, high-performance computing, and AI-driven frameworks to enable efficient, high-fidelity simulation of granular systems and enhance predictive capabilities."
-list_figure_caption: "Toy Story 3 incinerator scene, illustrating large-scale granular flow and interaction of shredded waste materials through particle-based simulation."
+list_figure_caption: "Pixar's Toy Story 3 incinerator scene, illustrating large-scale granular flow and interaction of shredded waste materials through particle-based simulation."
 date: 2026-04-27
 author: "The Granular Mechanics Research Laboratory"
 draft: false

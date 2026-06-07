@@ -10,7 +10,7 @@ cascade:
 ---
 
 ## Bio
-I am an Associate Professor in the [Department of Civil and Environmental Engineering](https://cee.fiu.edu/) at [Florida International University](https://www.fiu.edu/), where I also serve as the Undergraduate Program Director. My research trajectory has been shaped by a multidisciplinary background that bridges architectural engineering, structural engineering, computational granular mechanics, and advanced computing.
+I am an Associate Professor in the [Department of Civil and Environmental Engineering](https://cee.fiu.edu/) at [Florida International University (FIU)](https://www.fiu.edu/), where I also serve as the Undergraduate Program Director. My research trajectory has been shaped by a multidisciplinary background that bridges architectural engineering, structural engineering, computational granular mechanics, and advanced computing.
 
 I began my academic training in architectural engineering at [Sungkyunkwan University](https://www.skku.edu/eng/) and started my professional career as a building façade engineer at the [LG Industrial Materials Research Institute](https://www.lgchem.com/). Working on complex mechanical systems sparked a deeper interest in mechanics and material behavior. I later pursued graduate studies at the [University of Illinois Urbana-Champaign](https://illinois.edu/), where I earned a Ph.D. in [Civil Engineering](https://cee.illinois.edu/).
 
@@ -23,9 +23,12 @@ A significant portion of my work focuses on developing new computational paradig
 ## Education & Experience
 
 **EDUCATION**
-- Ph.D. Civil Engineering, University of Illinois Urbana-Champaign, 2014
+- Ph.D. in Civil Engineering (with focus on Computational Granular Mechanics), University of Illinois Urbana-Champaign, USA
+- M.S. in Civil Engineering (with focus on Structural Engineering), University of Illinois Urbana-Champaign, USA
+- M.S. in Architectural Engineering, Sungkyunkwan University, Korea
+- B.S. in Architectural Engineering, Sungkyunkwan University, Korea
 
-**EXPERIENCE**
+**ACADEMIC AND ADMINISTRATIVE APPOINTMENTS AT FIU**
 - Undergraduate Program Director, Dept. of Civil and Environmental Engineering, 11/2022 - Present
 - Associate Professor (with tenure), Dept. of Civil and Environmental Engineering, 08/2020 - Present
 - Founding Faculty Fellow, STEM Transformation Institute, 01/2015 - 04/2018

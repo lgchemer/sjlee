@@ -1,17 +1,17 @@
 ---
-title: "Advanced Particle Characterization"
-excerpt: "This effort establishes transformative approaches for systematically understanding how particle geometry governs macroscopic material behavior in ways that have not previously been achieved, even conceptually, in granular material characterization."
-list_figure_caption: "No two particles are exactly alike. Differences in their size, shape, and surface texture strongly influence how granular materials behave."
+title: "Granular Materials and Geomechanics"
+excerpt: "This effort aims to develop transformative approaches for systematically understanding how particle-scale characteristics and interactions govern emergent macroscopic behavior in granular materials, enabling insights that have not previously been possible."
+list_figure_caption: "Yoon Hyup, Night in Paris 1, 2020. A depiction of Paris constructed from simple dots in a pointillist style. While individual dots appear abstract at close range, the image emerges only at a larger scale."
 date: 2026-04-27
 author: "The Granular Mechanics Research Laboratory"
 draft: false
 layout: single
-weight: 3
+weight: 1
 ---
 
 ## **Selected Publications**
 
-![Selected publications placeholder figure](PGS.svg)
+![figure](PGS.svg)
 **Particle Geometry Space: An integrated characterization of particle shape, surface area, volume, specific surface, and size distribution**\
 [https://doi.org/10.1016/j.trgeo.2025.101579](https://doi.org/10.1016/j.trgeo.2025.101579)\
 This work introduces Particle Geometry Space (PGS), a unified analytical framework integrating particle size (*D*), shape (*β*), surface area (*A*), volume (*V*), and specific surface (*A/V*) into a single geometry-based representation. Moving beyond conventional isolated methods by characterizing size or shape, PGS enables systematic interpretation of all 3D particle geometry attributes in a single space and its relationship to granular material behavior while extending the traditional particle size distribution concept into a multidimensional framework.

@@ -1,6 +1,6 @@
 ---
 title: Research
-description: "Explore the lab's research areas and ongoing work."
+description: "Explore my research areas and ongoing work."
 author: "The Granular Mechanics Research Laboratory"
 show_post_thumbnail: true
 show_author_byline: false

@@ -14,12 +14,12 @@ weight: 2
 ![figure](iDEM.svg)
 **iDEM: An impulse-based discrete element method for fast granular dynamics**\
 [https://doi.org/10.1002/nme.4923](https://doi.org/10.1002/nme.4923)\
-This work introduces an impulse-based discrete element method (iDEM) for efficient simulation of granular materials. By replacing contact-force calculations with collision impulses and directly updating particle velocities, the method bypasses acceleration integration while preserving fidelity. The approach is numerically stable and achieves speedups approaching two orders of magnitude over conventional DEM, enabling large-scale simulations on accessible computing hardware.
+This work introduces an impulse-based discrete element method (iDEM) for efficient simulation of granular materials. By replacing contact-force calculations with collision impulses and directly updating particle velocities, the method bypasses acceleration integration while preserving fidelity. The approach is numerically stable and achieves speedups approaching two orders of magnitude over conventional DEM, enabling large-scale simulations on accessible computing hardware. 
 
-![figure](image-based-modeling.svg)
-**Image-based 3D modeling-to-simulation of single-wythe masonry structure via reverse descriptive geometry**\
-[https://doi.org/10.1016/j.jobe.2023.107125](https://doi.org/10.1016/j.jobe.2023.107125)\
-This study develops an image-based 3D modeling-to-simulation framework for rapid vulnerability assessment of single-wythe masonry structures. Using reverse descriptive geometry, 2D wall images are transformed into 3D discrete element models for seismic analysis. The framework combines automated geometry reconstruction, impulse-based dynamic simulation, and high-fidelity masonry modeling to enable efficient, accurate, and computationally scalable hazard assessment.
+![figure](LargeDeform.svg)
+**Numerical modelling of large deformation problems in geotechnical engineering: A state-of-the-art review**\
+[https://doi.org/10.1016/j.sandf.2021.08.007](https://doi.org/10.1016/j.sandf.2021.08.007)\
+This highly cited review synthesizes the state of the art in computational geomechanics for large deformation problems. Covering both continuum and discontinuum approaches, including the Finite Element Method (FEM), Material Point Method (MPM), Smoothed Particle Hydrodynamics (SPH), Particle Finite Element Method (PFEM), and Discrete Element Method (DEM), it assesses the strengths, limitations, and future challenges of modern numerical modelling techniques. The review serves as a comprehensive guide for researchers and practitioners addressing landslides, foundation installation, soil failure, and other geotechnical problems involving large deformation.
 
 ---
 

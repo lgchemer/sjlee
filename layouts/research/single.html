@@ -37,6 +37,72 @@
       margin-bottom: 2.5rem;
     }
 
+    .research-detail .post-body figure.research-image-with-caption {
+      clear: left;
+      float: left;
+      width: 30%;
+      margin: 0 2rem 1rem 0;
+    }
+
+    .research-detail .post-body figure.research-image-with-caption img {
+      display: block;
+      width: 100%;
+      height: auto;
+      margin: 0;
+    }
+
+    .research-detail .post-body figure.research-image-with-caption figcaption {
+      margin-top: 0.5rem;
+      font-size: 0.85rem;
+      line-height: 1.35;
+      font-style: italic;
+    }
+
+    .research-detail .post-body .research-entry-with-caption {
+      clear: both;
+      display: flex;
+      align-items: flex-start;
+      gap: 2rem;
+      margin-bottom: 2.5rem;
+    }
+
+    .research-detail .post-body .research-entry-with-caption figure.research-image-with-caption {
+      clear: none;
+      float: none;
+      flex: 0 0 30%;
+      width: 30%;
+      margin: 0;
+    }
+
+    .research-detail .post-body .research-entry-with-caption .research-entry-text {
+      flex: 1 1 auto;
+      line-height: 1.6;
+    }
+
+    .research-detail .post-body .research-entry-with-caption .research-entry-text p {
+      margin-top: 0;
+    }
+
+    .research-detail .post-body .research-entry-with-caption .research-entry-text strong:first-child {
+      display: block;
+      margin-bottom: 0.1rem;
+    }
+
+    .research-detail .post-body .research-entry-with-caption .research-entry-text strong:first-child + br {
+      display: none;
+    }
+
+    .research-detail .post-body .research-entry-with-caption .research-entry-text strong:first-child + br + a {
+      display: block;
+      margin-top: 0;
+      margin-bottom: 0.05rem;
+      font-size: 0.95em;
+    }
+
+    .research-detail .post-body .research-entry-with-caption .research-entry-text strong:first-child + br + a + br {
+      display: none;
+    }
+
     .research-detail .post-body p:has(> img) + p > strong:first-child {
       display: block;
       margin-bottom: 0.1rem;
@@ -82,6 +148,22 @@
       .research-detail .post-body p:has(> img) + p {
         min-height: 0;
         margin-bottom: 2rem;
+      }
+
+      .research-detail .post-body figure.research-image-with-caption {
+        float: none;
+        width: 100%;
+        margin: 0 0 1rem;
+      }
+
+      .research-detail .post-body .research-entry-with-caption {
+        display: block;
+        margin-bottom: 2rem;
+      }
+
+      .research-detail .post-body .research-entry-with-caption figure.research-image-with-caption {
+        width: 100%;
+        margin: 0 0 1rem;
       }
 
       .research-detail .post-body p + h2 {

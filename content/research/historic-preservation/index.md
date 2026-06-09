@@ -25,9 +25,8 @@ This study develops an image-based framework to quantify the geometric character
 ---
 
 ## **Sponsored Projects**
-
-![figure](Cheomseongdae.png)
+{{< research-captioned-entry image="Cheomseongdae.png" alt="Cheomseongdae" caption="Simulated collapse of Cheomseongdae under a magnitude 7.0 earthquake; [Full video](https://youtu.be/-BzHiE64MRA?si=bnEOCTa9KWfr4FpT)" >}}
 **Image-based Streamlined Analysis Framework for Hazard Vulnerability Assessment of Historic Masonry Structures**\
 [Sponsor: US Department of the Interior / National Park Service (PI: Seung Jae Lee)](https://www.nps.gov/)\
 This project develops a next-generation Imaging-to-Simulation framework that integrates computer vision, 3D reconstruction, and high-fidelity discrete element modeling to enable efficient, scalable hazard vulnerability assessment of historic masonry structures. The framework enhances predictive capabilities for preservation planning by identifying likely deterioration and failure scenarios before they occur.
-
+{{< /research-captioned-entry >}}

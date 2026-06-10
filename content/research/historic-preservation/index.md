@@ -12,7 +12,7 @@ weight: 4
 ## **Selected Publications**
 
 ![figure](image-based-modeling.svg)
-**Image-based 3D modeling-to-simulation of single-wythe masonry structure via reverse descriptive geometry**\
+**Image-Based 3D Modeling-to-Simulation of Single-Wythe Masonry Structure via Reverse Descriptive Geometry**\
 [https://doi.org/10.1016/j.jobe.2023.107125](https://doi.org/10.1016/j.jobe.2023.107125)\
 This study develops an image-based 3D modeling-to-simulation framework for rapid vulnerability assessment of single-wythe historic masonry structures. Using reverse descriptive geometry, 2D wall images are transformed into 3D discrete element models for seismic analysis. The framework combines automated geometry reconstruction, impulse-based dynamic simulation, and high-fidelity masonry modeling to enable efficient, accurate, and computationally scalable hazard assessment.
 

@@ -1,6 +1,10 @@
 {{ define "main" }}
 <main class="page-main pa4 research-detail" role="main">
   <style>
+    .research-detail {
+      --research-entry-line-height: 1.55;
+    }
+
     .research-detail .page-content {
       max-width: 80rem;
     }
@@ -18,9 +22,17 @@
       margin-bottom: 1rem;
     }
 
+    .research-detail .post-body p {
+      line-height: var(--research-entry-line-height);
+    }
+
     .research-detail .post-body p:has(> img) {
       clear: left;
       margin: 0;
+    }
+
+    .research-detail .post-body p:has(> img):not(:first-of-type) {
+      margin-top: 2rem;
     }
 
     .research-detail .post-body p:has(> img) img {
@@ -28,12 +40,11 @@
       float: left;
       width: 30%;
       height: auto;
-      margin: 0 2rem 1rem 0;
+      margin: 0 2rem 1.5rem 0;
     }
 
     .research-detail .post-body p:has(> img) + p {
       min-height: 8rem;
-      line-height: 1.6;
       margin-bottom: 2.5rem;
     }
 
@@ -76,7 +87,7 @@
 
     .research-detail .post-body .research-entry-with-caption .research-entry-text {
       flex: 1 1 auto;
-      line-height: 1.6;
+      line-height: var(--research-entry-line-height);
     }
 
     .research-detail .post-body .research-entry-with-caption .research-entry-text p {

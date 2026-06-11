@@ -17,3 +17,16 @@ body {
   max-width: 16rem;
   width: 100%;
 }
+
+.social-icon-links a {
+  align-items: center;
+  display: inline-flex;
+  height: 1.4rem;
+  justify-content: center;
+  width: 0.8rem;
+}
+
+.social-icon-links a i {
+  text-align: center;
+  width: 1.0em;
+}

@@ -30,3 +30,20 @@ body {
   text-align: center;
   width: 1.0em;
 }
+
+.research-intro {
+  max-width: 48rem;
+  white-space: pre-line;
+}
+
+.research-profile-link {
+  border: 1px solid #8a1f1f;
+  color: #8a1f1f;
+  line-height: 1.2;
+}
+
+.research-profile-link:hover,
+.research-profile-link:focus {
+  background-color: #8a1f1f;
+  color: #fff;
+}

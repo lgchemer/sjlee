@@ -1,12 +1,23 @@
 ---
 title: Research
-description: "The following provides an overview of my major research areas and ongoing work. For a full list of publications, please visit my [Google Scholar](https://scholar.google.com/citations?user=0q0VC2YAAAAJ&hl=en) page."
-author: "The Granular Mechanics Research Laboratory"
+description: |
+  The following provides an overview of my major research areas and ongoing work.
+  A full list of publications are available at Google Scholar and ORCID.
+author: "Seung Jae Lee"
 show_post_thumbnail: true
 show_author_byline: false
 show_post_date: false
 layout: list
 thumbnail_left: true
+profile_links:
+  - label: "Google Scholar"
+    icon: "google-scholar"
+    icon_pack: "ai"
+    url: "https://scholar.google.com/citations?user=0q0VC2YAAAAJ&hl=en"
+  - label: "ORCID"
+    icon: "orcid"
+    icon_pack: "ai"
+    url: "https://orcid.org/0000-0002-2180-3502"
 
 sidebar:
   title: Research

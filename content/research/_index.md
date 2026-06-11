@@ -1,6 +1,6 @@
 ---
 title: Research
-description: "Explore my research areas and ongoing work."
+description: "The following provides an overview of my major research areas and ongoing work. For a full list of publications, please visit my [Google Scholar](https://scholar.google.com/citations?user=0q0VC2YAAAAJ&hl=en) page."
 author: "The Granular Mechanics Research Laboratory"
 show_post_thumbnail: true
 show_author_byline: false

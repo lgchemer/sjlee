@@ -1,6 +1,6 @@
 ---
 title: Teaching
-description: "Explore sample courses, learning themes, and teaching areas connected to the lab."
+description: "I teach the following courses every academic year."
 author: "The Granular Mechanics Research Laboratory"
 show_post_thumbnail: true
 show_author_byline: false

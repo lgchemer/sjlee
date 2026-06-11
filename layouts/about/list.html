@@ -7,6 +7,7 @@
         {{ with .Resources.GetMatch "sjlee.png" }}
         <img class="about-profile-image db mb2" src="{{ .RelPermalink }}" alt="Seung Jae Lee">
         {{ end }}
+        {{ partial "shared/social-links.html" . }}
       </header>
       <section class="post-body about-body pt3 pb4">
         {{ .Content }}

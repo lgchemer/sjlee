@@ -25,10 +25,11 @@ This highly cited review synthesizes the state of the art in computational geome
 
 ## **Sponsored Projects**
 
-![figure](dune-part-2.png)
+{{< research-captioned-entry image="quilt.png" alt="A quilt visually echoing the layered structure of an ANN" caption="Log Cabin (Courthouse Steps/“Bricklayer” variation) quilt, by Loretta Pettway (1959)" >}}
 **BRITE Pivot: DEMIAN - Discrete Element Method Infused with Artificial Neural computations**\
 [Sponsor: National Science Foundation (PI: Seung Jae Lee)](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2527265)\
 This project develops DEMIAN (Discrete Element Method Infused with Artificial Neural computations), a next-generation discrete element simulation framework that integrates AI-driven computations to enable real-time, high-fidelity simulation of granular materials at unprecedented scale. 
+{{< /research-captioned-entry >}}
 
 ![figure](ionq.jpg)
 **QUAD: Quantum Computing-Accelerated Discrete Element Method**\

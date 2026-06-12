@@ -6,6 +6,18 @@ body {
   .home-title {
     font-size: 3.25rem;
   }
+
+  .home-text-column {
+    width: 58%;
+  }
+
+  .home-image-column {
+    width: 42%;
+  }
+
+  .home-image-column img {
+    max-width: 119%;
+  }
 }
 
 .home-role {

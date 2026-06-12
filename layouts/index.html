@@ -3,7 +3,7 @@
 <main class="page-main pa4" role="main">
   <section class="page-content mw9 center">
     <div class="flex-l items-center" style="{{ if .Params.image_left }}flex-direction: row-reverse;{{ end }}">
-      <div class="mh4 w-50-l {{ if not .Params.text_align_left }}tr{{ end }}">
+      <div class="home-text-column mh4 w-50-l {{ if not .Params.text_align_left }}tr{{ end }}">
         {{ with .Params.title }}<h1 class="home-title f2 f1-m f-subheadline-l fw5-ns mv4 lh-solid">{{ . }}</h1>{{ end }}
         {{ with .Params.role }}<p class="home-role f3 fw4 mt0 mb3">{{ . }}</p>{{ end }}
         {{ with .Params.department }}<h2 class="f5 fw7 mt0 mb3 ttu tracked">{{ . }}</h2>{{ end }}
@@ -13,7 +13,7 @@
         {{ with .Params.description }}<p class="f4 mt4 lh-copy">{{ . | markdownify }}</p>{{ end }}
         {{ if .Params.show_action_link }}<a class="mt4 action {{ .Params.action_type }}" href="{{ .Params.action_link | relURL }}">{{ .Params.action_label | safeHTML }}</a>{{ end }}
       </div>
-      <div class="w-50-l {{ if .Params.image_left }}ml4{{ else }}mr4{{ end }}">
+      <div class="home-image-column w-50-l {{ if .Params.image_left }}ml4{{ else }}mr4{{ end }}">
         <div class="w-100 flex justify-center {{ if .Params.image_left }}justify-center{{ else }}justify-end-l{{ end }}">
       {{ with .Params.images }}
         {{ $resolvedImages := slice }}

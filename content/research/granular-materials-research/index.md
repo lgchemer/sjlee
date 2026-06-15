@@ -17,7 +17,7 @@ weight: 1
 This work introduces Particle Geometry Space (PGS), a unified analytical framework integrating particle size (*D*), shape (*β*), surface area (*A*), volume (*V*), and specific surface (*A/V*) into a single geometry-based representation. Moving beyond conventional isolated methods by characterizing size or shape, PGS enables systematic interpretation of all 3D particle geometry attributes in a single space and its relationship to granular material behavior while extending the traditional particle size distribution concept into a multidimensional framework.
 
 
-![figure](KONA.svg)
+![figure](KONA.png)
 **Towards 3D Shape Estimation from 2D Particle Images: A State-of-the-Art Review and Demonstration**\
 [https://doi.org/10.14356/kona.2025017](https://doi.org/10.14356/kona.2025017)\
 This work investigates the relationship between 2D and 3D particle shape characterization to enable efficient estimation of 3D particle geometry from limited 2D images. Through analysis of approximately 400 mineral particles, the study reveals a strong correlation between 2D perimeter circularity (*c*<sub>p</sub>) and Wadell’s true sphericity (*S*) defined in 3D, establishing a cost-effective framework for reliable particle shape characterization.

@@ -120,6 +120,11 @@ enableEmoji = true
     url = "/teaching/"
     weight = 5
   [[menu.header]]
+    name = "Lab"
+    title = "Lab"
+    url = "/lab/"
+    weight = 6
+  [[menu.header]]
     name = "Contact"
     title = "Contact"
     url = "/contact/"

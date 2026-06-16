@@ -47,7 +47,7 @@ enableEmoji = true
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
   #         poppy / sky / violet / water 
-  theme = "sky"
+  theme = "grayscale"
   
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
@@ -120,9 +120,9 @@ enableEmoji = true
     url = "/teaching/"
     weight = 5
   [[menu.header]]
-    name = "Lab"
-    title = "Lab"
-    url = "/lab/"
+    name = "Service"
+    title = "Service"
+    url = "/service/"
     weight = 6
   [[menu.header]]
     name = "Contact"

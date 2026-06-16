@@ -17,6 +17,7 @@
       {{ end }}
     </div>
     {{ end }}
+    {{ with .Params.lab_statement }}<p class="research-lab-statement f4 mt4 lh-copy center">{{ . | markdownify }}</p>{{ end }}
     {{ if .Params.show_author_byline }}<p class="f7 measure lh-copy tc center i">{{ if .Params.author }}Written by {{ .Params.author }}{{ end }}</p>{{ end }}
   </section>
   <section class="blog-content mw8 center">

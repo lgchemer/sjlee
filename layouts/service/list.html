@@ -1,5 +1,5 @@
 {{ define "main" }}
-<main class="page-main pa4" role="main">
+<main class="page-main service-page pa4" role="main">
   <section class="blog-intro mw8 center tc mb5">
     <h2 class="f2 f1-ns lh-solid center fw4">{{ .Title | markdownify }}</h2>
     {{ with .Description }}<p class="f4 mt4 lh-copy mw8 center">{{ . | markdownify }}</p>{{ end }}
@@ -19,7 +19,7 @@
             <header class="w-100">
               <h1 class="f3 mv2 lh-title">{{ .title }}</h1>
             </header>
-            <p class="f4 lh-copy mv2 flex-auto">{{ .description | markdownify }}</p>
+            <p class="f4 lh-copy mv2 flex-auto">{{ .description | markdownify | replaceRE "<a " "<a class=\"service-bold-link\" " | safeHTML }}</p>
           </div>
         </div>
       </article>

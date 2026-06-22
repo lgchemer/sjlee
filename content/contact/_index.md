@@ -17,4 +17,4 @@ Florida International University
 10555 West Flagler Street, EC 3603  
 Miami, FL 33174
 
-For available positions and opportunities in the research lab, please visit the [Join the Lab](https://lgchemer.github.io/gmrl/join-the-lab) page of the [Granular Micromechanics Research Laboratory](https://lgchemer.github.io/gmrl), jointly directed by Dr. Anil Misra and me.
+For available positions and opportunities in the research lab, please visit the [Join the Lab](https://lgchemer.github.io/gmrl/join-the-lab) page of the [GRANITA (Granular Micromechanics from Theory to Applications) Lab](https://lgchemer.github.io/gmrl), jointly directed by Dr. Anil Misra and me.

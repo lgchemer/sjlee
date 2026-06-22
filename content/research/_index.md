@@ -9,7 +9,7 @@ show_author_byline: false
 show_post_date: false
 layout: list
 thumbnail_left: true
-lab_statement: "I co-direct the Granular Micromechanics Research Laboratory with [Dr. Anil Misra](https://cec.fiu.edu/about/directory/profiles/anil-misra.html). Additional information about our research program, facilities, laboratory members, and ongoing work is available on our laboratory [website](https://lgchemer.github.io/gmrl)."
+lab_statement: "I co-direct the GRANITA (Granular Micromechanics from Theory to Applications) Lab with [Dr. Anil Misra](https://cec.fiu.edu/about/directory/profiles/anil-misra.html). Additional information about our research program, facilities, laboratory members, and ongoing work is available on our laboratory [website](https://lgchemer.github.io/gmrl)."
 profile_links:
   - label: "Google Scholar"
     icon: "google-scholar"

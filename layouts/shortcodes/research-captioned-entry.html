@@ -4,7 +4,10 @@
 <div class="research-entry-with-caption">
   <figure class="research-image-with-caption">
     <img src="{{ $src }}" alt="{{ .Get "alt" }}">
-    <figcaption>{{ .Get "caption" | markdownify }}</figcaption>
+    <figcaption>
+      {{ with .Get "caption_title" }}<span class="research-caption-title">{{ . | markdownify }}</span>{{ end }}
+      {{ with .Get "caption" }}<span class="research-caption-detail">{{ . | markdownify }}</span>{{ end }}
+    </figcaption>
   </figure>
   <div class="research-entry-text">
     {{ .Inner | markdownify }}

@@ -31,8 +31,9 @@ This highly cited review synthesizes the state of the art in computational geome
 This project develops DEMIAN (Discrete Element Method Infused with Artificial Neural computations), a next-generation discrete element simulation framework that integrates AI-driven computations to enable real-time, high-fidelity simulation of granular materials at unprecedented scale. 
 {{< /research-captioned-entry >}}
 
-![figure](ionq.jpg)
+{{< research-captioned-entry image="ionq.jpg" alt="IonQ quantum computing hardware" caption_title="IonQ quantum computing hardware." caption="Quantum computing offers a promising pathway for accelerating computationally intensive particle-scale simulations." >}}
 **QUAD: Quantum Computing-Accelerated Discrete Element Method**\
 [Sponsor: FIU Office of the Provost (PI: Seung Jae Lee)](https://provost.fiu.edu/)\
 This project aims to develop QUAD, a quantum computing–accelerated discrete element method for simulating granular materials. By reformulating DEM computational bottlenecks to exploit quantum computing, the project seeks to dramatically accelerate large-scale particle simulations beyond the limits of conventional and high-performance computing, enabling transformative advances in granular mechanics, hazard prediction, and engineering design.
+{{< /research-captioned-entry >}}
 

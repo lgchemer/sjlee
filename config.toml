@@ -83,7 +83,7 @@ enableEmoji = true
   [[params.social]]
    icon      = "flask" 
    icon_pack = "fas"
-   url       = "https://lgchemer.github.io/gmrl"
+   url       = "https://granita.fiu.edu"
   [[params.social]]
    icon      = "address-card"
    icon_pack = "far"

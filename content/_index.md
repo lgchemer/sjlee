@@ -18,7 +18,7 @@ action_type: text # text, button
 news_heading: "Latest News"
 news_items:
   - date: "July 30, 2026"
-    title: "New NASA funding: Rapid Contact Dynamics for Surface Operations (PI: Seung Jae Lee; Co-PI: Anil Misra)"
+    title: "New NASA funding: Rapid Contact Dynamics for Surface Operations"
     description: "This NASA-sponsored project will develop a faster, high-fidelity simulation method for interactions between lunar regolith and rover wheels, lander footpads, and other surface equipment, supporting Artemis mission planning and future lunar operations."
     url: ""
   - date: "June 1, 2026"

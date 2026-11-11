@@ -25,7 +25,6 @@ A significant portion of my work focuses on developing new computational paradig
 **EDUCATION**
 - Ph.D. in Civil Engineering (with focus on Computational Granular Mechanics), University of Illinois Urbana-Champaign, USA
 - M.S. in Civil Engineering (with focus on Structural Engineering), University of Illinois Urbana-Champaign, USA
-- M.S. in Architectural Engineering, Sungkyunkwan University, Korea
 - B.S. in Architectural Engineering, Sungkyunkwan University, Korea
 
 **ACADEMIC AND ADMINISTRATIVE APPOINTMENTS AT FIU**
